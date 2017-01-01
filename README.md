@@ -5,7 +5,7 @@ The core component is a circular doubly linked list. Library-internal data struc
 
 Most of the code conforms to the Linux kernel coding standards (verified against *checkpatch.pl*), other than a few unavoidable instances.
 
-`dslib` is **GPLv3** licensed. Copyright (C) 2015 [Arun Prakash Jana](mailto:engineerarun@gmail.com).
+`dslib` is **GPLv3** licensed. Copyright © 2015 [Arun Prakash Jana](mailto:engineerarun@gmail.com).
 
 `dslib` is an academic library. However, we'll be glad if someone finds any other application of it.
 
